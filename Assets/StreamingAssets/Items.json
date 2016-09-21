@@ -1,0 +1,148 @@
+[ //square brackets act as container
+  { //Braces act as our object
+    "id": 0,
+    "title": "Steel Gloves",
+    "value": 7,
+    "stats": {
+      "power": 1,
+      "defence": 4,
+      "vitality": 10
+    },
+    "description": "These gloves are hand crafted from steel",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "steel_gloves"
+  },
+
+  {
+    "id": 1,
+    "title": "Top Hat",
+    "value": 200,
+    "stats": {
+      "power": 10,
+      "defence": 20,
+      "vitality": 50
+    },
+    "description": "A hat for the most gentle man",
+    "stackable": false,
+    "rarity": 20,
+    "sprite": "top_hat"
+  },
+
+  {
+    "id": 2,
+    "title": "Steel Sword",
+    "value": 20,
+    "stats": {
+      "power": 30,
+      "defence": 10,
+      "vitality": 5
+    },
+    "description": "Stabby Stabby Stab Stab",
+    "stackable": false,
+    "rarity": 4,
+    "sprite": "steel_sword"
+  },
+
+  {
+    "id": 3,
+    "title": "Steel Shield",
+    "value": 17,
+    "stats": {
+      "power": 10,
+      "defence": 30,
+      "vitality": 5
+    },
+    "description": "Shield my virginity",
+    "stackable": false,
+    "rarity": 6,
+    "sprite": "steel_shield"
+  },
+
+  {
+    "id": 4,
+    "title": "Health Potion",
+    "value": 25,
+    "stats": {
+      "power": 5,
+      "defence": 10,
+      "vitality": 50
+    },
+    "description": "Let me kiss it better",
+    "stackable": true,
+    "rarity": 3,
+    "sprite": "health_potion"
+  },
+
+  {
+    "id": 5,
+    "title": "Swift Boots",
+    "value": 50,
+    "stats": {
+      "power": 5,
+      "defence": 10,
+      "vitality": 15
+    },
+    "description": "Gotta go fast",
+    "stackable": true,
+    "rarity": 30,
+    "sprite": "swift_boots"
+  },
+
+  {
+    "id": 6,
+    "title": "Sick Shades",
+    "value": 100,
+    "stats": {
+      "power": 40,
+      "defence": 50,
+      "vitality": 100
+    },
+    "description": "Sick Shades Bro",
+    "stackable": false,
+    "rarity": 100,
+    "sprite": "sick_shades"
+  },
+  {
+    "id": 7,
+    "title": "Polo Shirt",
+    "value": 30,
+    "stats": {
+      "power": 10,
+      "defence": 50,
+      "vitality": 10
+    },
+    "description": "Just your average shirt",
+    "stackable": false,
+    "rarity": 100,
+    "sprite": "polo_shirt"
+  },
+  {
+    "id": 8,
+    "title": "Trackies",
+    "value": 10,
+    "stats": {
+      "power": 5,
+      "defence": 5,
+      "vitality": -10
+    },
+    "description": "More seen at centrelink than a track",
+    "stackable": false,
+    "rarity": 5,
+    "sprite": "tracksuit_pants"
+  },
+  {
+    "id": 9,
+    "title": "Latex Gloves",
+    "value": 1,
+    "stats": {
+      "power": 5,
+      "defence": 5,
+      "vitality": 10
+    },
+    "description": "Not really going to help",
+    "stackable": false,
+    "rarity": 1,
+    "sprite": "latex_gloves"
+  }
+]
